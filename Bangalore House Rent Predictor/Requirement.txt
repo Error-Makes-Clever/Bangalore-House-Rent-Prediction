@@ -1,7 +1,6 @@
-numpy
-pandas 
 streamlit
+numpy
+pandas
 scikit-learn
+pickle-mixin
 category_encoders
-pickle
-lzma
