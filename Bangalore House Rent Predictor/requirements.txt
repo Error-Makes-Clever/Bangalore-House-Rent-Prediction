@@ -3,3 +3,4 @@ pandas==2.2.3
 numpy==2.2.3
 scikit-learn>=1.6.0
 category_encoders==2.8.1
+rich>=10.14.0
