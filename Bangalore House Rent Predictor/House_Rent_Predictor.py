@@ -4,6 +4,7 @@ import pickle
 import lzma
 import streamlit as st
 import warnings
+import sklearn
 
 st.set_page_config(page_title="Bangalore House Predictor", layout="centered")
 
